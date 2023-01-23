@@ -1,0 +1,12 @@
+.container{
+    background-color: #e5f0f6;
+    width: 90%;
+    margin: 25px auto;
+    padding: 2%;
+}
+
+table{
+    border-collapse: separate;
+    border-spacing: 0 15px;
+    width: 100%;
+}
